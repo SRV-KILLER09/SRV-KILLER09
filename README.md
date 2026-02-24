@@ -42,8 +42,8 @@ Mission: Engineering high-impact products that solve real-world problems at scal
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-Live-blueviolet?style=for-the-badge"></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/vardaan-saxena-b4b4a4365/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge"></a>
+  <a href="vardaansaxena096@Gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge"></a>
 </p>
 
 ---
