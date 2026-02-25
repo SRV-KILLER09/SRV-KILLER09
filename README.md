@@ -8,17 +8,13 @@
 </p>
 
 <h2 align="center">
-⚡ Full Stack Engineer • AI Explorer • System Architect • Hackathon Winner
+ Full Stack Dev | AI Explorer | Hackathons Winner | Open Source Builder
 </h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=blueviolet"/>
-  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=for-the-badge&color=00E5FF"/>
-  <img src="https://img.shields.io/github/stars/yourusername?label=Total%20Stars&style=for-the-badge&color=FF4ECD"/>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="420"/>
+  <img src="https://img.shields.io/badge/Visitors-1242+-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/SRV-KILLER09?label=Followers&style=for-the-badge&color=00E5FF"/>
+  <img src="https://img.shields.io/github/stars/SRV-KILLER09?label=Total%20Stars&style=for-the-badge&color=FF4ECD"/>
 </p>
 
 ---
@@ -125,11 +121,6 @@ Mission: Engineering high-impact products that solve real-world problems at scal
 
 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Visitors-1242-blueviolet?style=for-the-badge&logo=github" />
-</p>
-
----
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%92%AB;Keep+building.+Keep+hacking.+Keep+learning.+%F0%9F%94%A5;Let's+create+something+legendary+%F0%9F%9A%80" />
